@@ -1,0 +1,10 @@
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\GAMAY\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
